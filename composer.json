@@ -1,0 +1,13 @@
+{
+    "name": "edixon-alberto/uuid-php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "EdixonAlberto",
+            "email": "edixonalbertto@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
