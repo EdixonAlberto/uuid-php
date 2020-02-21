@@ -31,6 +31,6 @@ class Gui
             '/^[a-z0-9]{8}(\-[a-z0-9]{4}){3}\-[a-z0-9]{12}$/',
             $gui
         )) return true;
-        else throw new Exception('id incorrect', 400);
+        else throw new Exception('id incorrect');
     }
 }

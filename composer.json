@@ -1,13 +1,19 @@
 {
     "name": "edixon-alberto/uuid-php",
     "type": "library",
+    "description": "Id generator",
     "license": "MIT",
     "authors": [
         {
             "name": "EdixonAlberto",
-            "email": "edixonalbertto@gmail.com"
+            "email": "contact@edixonalberto.com"
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    }
 }
